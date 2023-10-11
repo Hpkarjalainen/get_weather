@@ -25,3 +25,7 @@ Make sure to configure the app with your own weather API URL and keys for it to 
 **Author:**
 Hannu Karjalainen with some help from ChatGPT on this readme
 
+<div style="display: flex;">
+    <img src="screenshot2.jpg" alt="Screenshot 2" width="200" style="margin-right: 20px;" />
+    <img src="screenshot1.jpg" alt="Screenshot 1" width="200" />
+</div>
